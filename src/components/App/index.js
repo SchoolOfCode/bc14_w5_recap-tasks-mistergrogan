@@ -3,6 +3,7 @@ import Comment from "../Comment";
 import React from "react";
 import BlogPost from "../BlogPost";
 import { blogPost } from "../BlogPost/BlogData.js";
+import "../Comment/CommentBox.css"
 
 function App() {
   return (

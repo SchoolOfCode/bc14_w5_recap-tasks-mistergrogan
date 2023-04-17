@@ -13,7 +13,7 @@ Optionally, also spend time with other sections on the docs:
 - The [describing the UI](https://beta.reactjs.org/learn/describing-the-ui) will review components, JSX, and props.
 - The [adding interactivity](https://beta.reactjs.org/learn/adding-interactivity) and [managing state](https://beta.reactjs.org/learn/managing-state) sections in the docs will solidify your knowledge about how state works in a React app and help with the tasks below.
 
-### Task 1 - BlogPost
+### Task 1 - BlogPost✅
 
 Create a component `BlogPost` (for this exercise, make it the default export in `src/components/BlogPost/index.js`) as below:
 
@@ -67,7 +67,7 @@ Create a component `Comment` (for this exercise, make it the default export in `
 
 - Renders:
 
-  - Display the author and comment
+  - Display the author and comment✅
   - Display the capitalised initials of the commenter's full name in a nice little circle. Some examples:
 
     - `Ben Lee` should appear as `BL` inside a circle
